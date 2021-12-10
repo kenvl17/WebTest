@@ -1,7 +1,4 @@
-com/test/page/BasePage.class
-com/test/page/LoginAndRegisterPage.class
-com/test/page/SearchPage.class
-com/test/helper/WebDriverUtil.class
 com/test/page/BasePage$1.class
 com/test/page/BasePage$ByLocator.class
-com/test/page/AddToCartPage.class
+com/test/page/BasePage.class
+com/test/helper/WebDriverUtil.class
